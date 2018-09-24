@@ -1,0 +1,33 @@
+﻿body
+{
+	background-image: url(blue.jpg);
+}
+
+#gambar {
+	height: 250px;
+	position: absolute;
+}
+
+p {
+	text-align: center;
+	color: lightyellow;
+	font-size: 50px;
+}
+
+/*Table Start*/
+table {
+      width:50%;
+    background-color:mediumseagreen
+  }
+  table, th, td {
+      border: 1px solid black;
+      border-collapse: collapse;
+  }
+  th, td {
+      padding: 15px;
+    }
+  table#t01 th {
+      background-color: black;
+      color: white;
+  }
+  /*Table End*/
